@@ -1,0 +1,27 @@
+{
+    "__version__": 1,
+    "totalSize": 4650,
+    "count": 5,
+    "data": {
+        "app.js": [
+            0,
+            2505
+        ],
+        "main.js": [
+            0,
+            1227
+        ],
+        "multi-choice-question.js": [
+            0,
+            138
+        ],
+        "question.js": [
+            0,
+            254
+        ],
+        "single-choice-question.js": [
+            0,
+            526
+        ]
+    }
+}
